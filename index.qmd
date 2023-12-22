@@ -102,7 +102,7 @@ Una primera frase
 Pero esto es muy importante!!!
 :::
 
-## Incrustar un sitio web {.smaller}
+## Incrustar un sitio web 
 
 Para embeber un sitio web usas:
 
@@ -120,7 +120,7 @@ Y la salida es:
 ```
 
 
-## Incrustar un video {.smaller}
+## Incrustar un video
 
  Para un video de youtube
 
