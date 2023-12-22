@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html#diapositiva-1",
+    "href": "index.html#diapositiva-1",
+    "title": "Título de la diapositiva",
+    "section": "Diapositiva 1",
+    "text": "Diapositiva 1\n\n\nAquí una columna:\n\nprimero\nsegundo\ntercero\n\n\n\n\n\nUna imagen"
+  },
+  {
+    "objectID": "index.html#algo-de-código",
+    "href": "index.html#algo-de-código",
+    "title": "Título de la diapositiva",
+    "section": "Algo de código",
+    "text": "Algo de código\nAqui algo de texto, se incluye {.smaller} al lado del título de la diapositiva para reducir el tamaño del texto. Una ecuación,\n\\[\n\\frac{P}{A}= \\frac{1}{2} \\rho V^3\n\\]\n\nimport numpy as np\nimport matplotlib.pyplot as plt \n\nVelocidad=np.arange(0,10,0.1)\nDensidad_Potencia=0.5*1.2*Velocidad**3\n\nplt.plot(Velocidad,Densidad_Potencia,'.')\nplt.show()"
+  },
+  {
+    "objectID": "index.html#animaciones",
+    "href": "index.html#animaciones",
+    "title": "Título de la diapositiva",
+    "section": "Animaciones",
+    "text": "Animaciones\nUna primera frase"
+  },
+  {
+    "objectID": "index.html#animaciones-1",
+    "href": "index.html#animaciones-1",
+    "title": "Título de la diapositiva",
+    "section": "Animaciones",
+    "text": "Animaciones\nPero antes esto…\nUna primera frase\n\nPero esto es muy importante!!!"
+  },
+  {
+    "objectID": "index.html#animaciones-2",
+    "href": "index.html#animaciones-2",
+    "title": "Título de la diapositiva",
+    "section": "Animaciones",
+    "text": "Animaciones\nPero antes esto…\nUna primera frase\n\nPero esto es muy importante!!!"
+  },
+  {
+    "objectID": "index.html#incrustar-un-sitio-web",
+    "href": "index.html#incrustar-un-sitio-web",
+    "title": "Título de la diapositiva",
+    "section": "Incrustar un sitio web",
+    "text": "Incrustar un sitio web\nPara embeber un sitio web usas:\n```{=html}\n&lt;iframe width=\"780\" height=\"500\" src=\"https://osvaldorh.github.io/\" title=\"Quarto Documentation\"&gt;&lt;/iframe&gt;\n```\nY la salida es:"
+  },
+  {
+    "objectID": "index.html#incrustar-un-video",
+    "href": "index.html#incrustar-un-video",
+    "title": "Título de la diapositiva",
+    "section": "Incrustar un video",
+    "text": "Incrustar un video\nPara un video de youtube\n{&lt; video https://youtu.be/lrotSZe568o?si=qB1B38Yjpt5Jo5RH width=\"100%\" height=\"85%\" &gt;}\nY esta es la salida:\n\n\n\nCongreso de universidades - 2023"
+  }
+]
